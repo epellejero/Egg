@@ -23,7 +23,7 @@ public class HolaMundo {
         System.out.println("Ingrese su nombre:");
         nombre = leer.next();
         System.out.println("Hola mundo ! Soy " + nombre + " y estoy programando JAVA");
-        
+        // new version 
     }
     
 }
